@@ -7,7 +7,7 @@ public class GraPG {
 
     public static void main(String[] args) {
 
-        System.out.println("courage is important!");
+        System.out.println("I am coming, believe myself!fir");
 
         List<String> list = Arrays.asList("1", "2", "3");
 
