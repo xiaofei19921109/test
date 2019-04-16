@@ -24,7 +24,7 @@ public class GraPG {
         t.start();
 
         long res = System.currentTimeMillis();
-        System.out.println("time:"+res);
+
 
     }
 
