@@ -7,6 +7,8 @@ public class GraPG {
 
     public static void main(String[] args) {
 
+        System.out.println("courage is important!");
+
         List<String> list = Arrays.asList("1", "2", "3");
 
         Runnable r = () ->{
