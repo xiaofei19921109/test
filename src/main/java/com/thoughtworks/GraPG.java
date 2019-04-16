@@ -7,7 +7,7 @@ public class GraPG {
 
     public static void main(String[] args) {
 
-        System.out.println("I am coming, believe myself!fir");
+        System.out.println("I am coming, believe myself");
 
         List<String> list = Arrays.asList("1", "2", "3");
 
@@ -23,7 +23,12 @@ public class GraPG {
         Thread t = new Thread(r);
         t.start();
 
+        long res = System.currentTimeMillis();
+        System.out.println("time:"+res);
+
     }
+
+
 
     String print() {
         return "hello world";
