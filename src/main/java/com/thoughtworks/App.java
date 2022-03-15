@@ -6,7 +6,7 @@ package com.thoughtworks;
  */
 public class App 
 {
-    public static void main( String[] rrr )
+    public static void main( String[] args2 )
     {
       System.out.println("already merge fei");
     }
