@@ -8,6 +8,6 @@ public class App
 {
     public static void main( String[] rrr )
     {
-      System.out.println("merge OK");
+      System.out.println("merge OK 123");
     }
 }
