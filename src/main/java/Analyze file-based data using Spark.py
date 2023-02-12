@@ -1,6 +1,8 @@
 # Databricks notebook source
+
 # MAGIC %md
 # MAGIC # Explore data in a dataframe
+# test git pull
 # MAGIC 
 # MAGIC In this notebook, you'll use Spark in Azure Databricks to explore data in files. One of the core ways in which you work with data in Spark is to load data into a **Dataframe** object, and then query, filter, and manipulate the dataframe to explore the data it contains.
 # MAGIC 
