@@ -6,6 +6,8 @@
 # MAGIC 
 # MAGIC 新建注释
 # MAGIC 
+# MAGIC 重新在 repos 中添加注释
+# MAGIC 
 # MAGIC In this notebook, you'll explore how to use Delta Lake in a Databricks Spark cluster.
 # MAGIC 
 # MAGIC ## Ingest data
