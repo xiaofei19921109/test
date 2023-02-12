@@ -2,6 +2,8 @@
 # MAGIC %md
 # MAGIC # Explore Delta Lake
 # MAGIC 
+# MAGIC 测试是否自动提交代码
+# MAGIC 
 # MAGIC In this notebook, you'll explore how to use Delta Lake in a Databricks Spark cluster.
 # MAGIC 
 # MAGIC ## Ingest data
